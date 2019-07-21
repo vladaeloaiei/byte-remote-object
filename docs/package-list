@@ -1,0 +1,13 @@
+byteremote.client
+byteremote.client.tcp
+byteremote.client.udp
+byteremote.common.serialization
+byteremote.common.socket
+byteremote.common.socket.tcp
+byteremote.common.socket.udp
+byteremote.generation.annotation
+byteremote.generation.processor
+byteremote.server
+byteremote.server.handler
+byteremote.server.tcp
+byteremote.server.udp

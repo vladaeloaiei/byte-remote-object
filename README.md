@@ -1,2 +1,2 @@
-# byte-remote-object
+# java-remote-object
 Framework for remote object in Java
